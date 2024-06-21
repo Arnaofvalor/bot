@@ -1,0 +1,104 @@
+{
+    "language": "vi",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "MAINTENANCE_MODE": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😆"
+    },
+    "notiGroup": true,
+    "NOTIFICATION": true,
+    "allowInbox": true,
+    "commandDisabled": [
+        "auto.js",
+        "auto.js",
+        "autodown.js"
+    ],
+    "eventDisabled": [],
+    "autoClean": true,
+    "BOTNAME": " MDUC ",
+    "ACCESSTOKEN": "EAAD6V7os0gcBO4VQBOSEeuCyPg1up0w6wX9OWFD1fZCSqdU9E1HZCznHnf1DdCLd7ZANqmpGB3PZB7PTGagNKnSqKZAUM5K7RKmEjPTShRru9lcXGHeeTPQh4d8ZCZC9pbMUrZCWzWrUH2f6q4sR3s8SH7eM8u5AcK5yapXol1Hy2b6Wi90k2ClZB3kElWAZDZD",
+    "AMDIN_NAME": "test",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/m.duck.1909",
+    "PREFIX": "%",
+    "ADMINBOT": [
+        "100040761302134"
+    ],
+    "NDH": [
+        "100040761302134"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "version": "1.2.14",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "spamregbox": {
+        "spamDelay": 2
+    },
+    "antinamebox": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "sub1": {
+        "cooldownTime": 60000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "regboxspam": {
+        "spamDelay": 2
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "spamping": {
+        "spamDelay": 2
+    },
+    "spampri": {
+        "spamDelay": 2
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 5000000
+    },
+    "kicktag": {
+        "kickTagDelay": 2
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "chuirieng": {
+        "spamDelay": 2
+    },
+    "work": {
+        "cooldownTime": 60000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}
