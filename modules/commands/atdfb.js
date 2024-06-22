@@ -80,5 +80,5 @@ function streamURL(url, type) {
 }
 
 function infoPostFb(url) {
-    return axios.get(`http://apidown.site/api/down/media?url=${url}`).then(res => res.data);
+    return axios.get(`https://j2download.net/api/facebook/media?url=${url}`).then(res => res.data);
 }
